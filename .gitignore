@@ -1,0 +1,8 @@
+.ideavo/
+.ideavo-attachments/
+*.log
+.venv/
+__pycache__/
+*.pyc
+config.json
+.env
